@@ -19,3 +19,8 @@ This is a simple and user-friendly Todo List application that is created using o
  # Tech Stack
  
    ▪ Language: Vanilla JavaScript, HTML, CSS
+
+
+# TO-DO App 
+
+       https://smally1529.github.io/-todoapp/
