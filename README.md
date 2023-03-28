@@ -23,4 +23,4 @@ This is a simple and user-friendly Todo List application that is created using o
 
 # TO-DO App 
 
-       https://smally1529.github.io/-todoapp/
+ # Live demo:- https://smally1529.github.io/-todoapp/
